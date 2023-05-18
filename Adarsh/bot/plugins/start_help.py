@@ -29,7 +29,7 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/movies_wallah_1"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/mw_discussuon")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/movies_wallah_1"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/mw_discussion")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/as_3523"), InlineKeyboardButton("💠 DEVELOPER", url="https://telegram.dog/as_3523")],
                     [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/+NAVbN-SG7w41MzA1")]
                 ]
@@ -85,7 +85,7 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/movies_wallah_1"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/beta_support")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/movies_wallah_1"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/mw_discussion")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/as_3523"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/as_3523")],
                     [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@itzjeol")]
                 ]
@@ -119,7 +119,7 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/movies_wallah_1"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/beta_support")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/movies_wallah_1"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/mw_discussion")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/as_3523"), InlineKeyboardButton("💠 DEVELOPER", url="https://telegram.dog/as_3523")],
                     [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/+NAVbN-SG7w41MzA1")]
                 ]
